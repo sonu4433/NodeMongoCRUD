@@ -21,4 +21,4 @@ Node.js-express.js-Mongoose-CRUD app
 
  - ## Employee Insert Form
 
-![Insert](C:\Users\SonuSharma\Desktop\insert.md)
+! [Insert](.\insert.png)
