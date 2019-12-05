@@ -11,7 +11,7 @@ Node.js-express.js-Mongoose-CRUD app
 ### Content discussed :
 
 * Form Design.
-* _Use of Express.js & Express-Handlebars
+* Use of Express.js & Express-Handlebars
 * Post Form Data into Node.js.
 * Implemented Form Validation with mongoose model.
 * Insert, Update and Delete with Node and MongoDB.
@@ -21,4 +21,4 @@ Node.js-express.js-Mongoose-CRUD app
 
  - ## Employee Insert Form
 
-![Insert](C:\Users\SonuSharma\Desktop\insert.png)
+![Insert](C:\Users\SonuSharma\Desktop\insert.md)
