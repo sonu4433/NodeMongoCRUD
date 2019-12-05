@@ -2,15 +2,23 @@
 Node.js-express.js-Mongoose-CRUD app
 
 
-##Before Running this Project
+## Before Running this Project
 
-Install npm packages using 'npm install' command.
+1. Open Your CLI and Proceed With Further Step
+1. Install npm packages using 'npm install' command.
 
 
-###Content discussed :
+### Content discussed :
 
-_Form Design.
-_Use of Express.js & Express-Handlebars
-_Post Form Data into Node.js.
-_Implemented Form Validation with mongoose model.
-_Insert, Update and Delete with Node and MongoDB.
+* Form Design.
+* _Use of Express.js & Express-Handlebars
+* Post Form Data into Node.js.
+* Implemented Form Validation with mongoose model.
+* Insert, Update and Delete with Node and MongoDB.
+
+
+# Employee Insert Form & Employee List
+
+ - ## Employee Insert Form
+
+![Insert](C:\Users\SonuSharma\Desktop\insert.png)
