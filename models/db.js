@@ -10,4 +10,5 @@ mongoose.connect(Url, mongoOption, (err) => {
     }
 });
 
+
 require('./employee.model');
